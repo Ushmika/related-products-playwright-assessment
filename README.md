@@ -23,20 +23,6 @@ npx playwright install
 ##  Running Tests
 ```bash
 npx playwright test
-```
-
-##  Folder Structure
-```
-related-products-playwright/
-├── config/
-│   └── playwright.config.js
-├── tests/
-│   └── relatedProducts.spec.js
-├── pages/
-│   └── ProductPage.js
-...
-
-
 
 ## Reports
 To view HTML test report:
