@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # eBay Wallet Product Page - Playwright Automation
 
 ##  Project Description
@@ -46,3 +47,6 @@ npx playwright show-report
 ## 🔗 GitHub
 Push this project to GitHub and share the repo link with the interviewer.
 */
+=======
+# related-products-playwright-assessment
+>>>>>>> 2e69cb0bc437780340c60d8e686b65ff37911e56
