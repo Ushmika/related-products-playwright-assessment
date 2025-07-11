@@ -1,7 +1,7 @@
 class ProductPage {
   constructor(page) {
     this.page = page;
-    this.relatedSection = '.related-products'; // Replace with actual selector
+    this.relatedSection = '.related-products';
     this.productCard = '.related-products .product-card';
     this.category = '.product-category';
     this.price = '.product-price';
